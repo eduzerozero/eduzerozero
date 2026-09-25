@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Studying **Cyber Security** at IU International University
