@@ -34,18 +34,5 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🐧 Raspberry Pi Homelab
-My personal homelab for exploring networking, cybersecurity and self-hosted applications.
-
-**Technologies:** Raspberry Pi, Docker, Linux, Pi-hole, Nginx
-
-### 🌐 Personal Portfolio
-My personal website showcasing my projects, skills and development journey.
-
-**Technologies:** Angular, TypeScript, HTML, CSS
 
 
